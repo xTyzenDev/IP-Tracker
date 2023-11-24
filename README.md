@@ -2,8 +2,7 @@
 
 ### [!] Version Update [!]
 
-En:
-  This Ip-tracker was created for the purpose of tracking and recovering information on someone's ip address. Based on the APIs of ipinfo.io, this gives you the following info 
+This Ip-tracker was created for the purpose of tracking and recovering information on someone's ip address. Based on the APIs of ipinfo.io, this gives you the following info 
  
   "ipAddress": "",
     "continentCode": "",
